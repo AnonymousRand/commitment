@@ -153,6 +153,7 @@ I already said I was sorry
 I am Root. We are Root.
 I am Spartacus
 I am even stupider than I thought
+I am losing my sanity.
 I am sorry
 I am the greatest javascript developer in the world.
 I can't believe it took so long to fix this.
@@ -346,6 +347,7 @@ Same as last commit with changes
 See last commit
 Shit code!
 Shovelling coal into the server...
+SLIUG HBERASIKDUVHGB ASDLIUVHG SDFLIGVUDFGHIOPL;REFHVIOPRL;UIGHVBPEIODUFSGVDFIOLUVGFEDLIVUGREIL UVGERUILVRGEDFLUIVREGLUI VERFLGRIU IT DOENST #$^#$%^&$%w& WEORK
 So my boss wanted this button ...
 Some bugs fixed
 Some shit.
@@ -369,6 +371,7 @@ That last commit was cringe
 That last commit message about silly mistakes pales in comparision to this one
 That's just how I roll
 The dog is eating my code
+The Great Purge 2.0
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
 The universe is possible
@@ -473,6 +476,7 @@ accidental commit
 add actual words
 add dirty scripts from the dark side of the universe
 added code
+added funni oh god why am i doing this i need to sleep
 added message
 added security.
 added some filthy stuff
@@ -493,6 +497,7 @@ better code
 better grepping
 better ignores
 betterer code
+bgvsd
 bifurcation
 bla
 breathe, =, breathe
@@ -509,6 +514,7 @@ clarify further the brokenness of C++. why the fuck are we using C++?
 commented out failing tests
 commit
 copy and paste is not a design pattern
+credits added logo thingy yes piss 
 de-misunderestimating
 debug line test
 debug suff
@@ -517,15 +523,19 @@ derp, helper method rename
 derpherp
 diaaaaaazeeeeeeeeeepam
 did everything
+did i forget to save 
 dirty hack, have a better idea ?
+disaster narrowly averted
 does it work? maybe. will I check? no.
 doh.
 done. going to bed now.
 dope
 download half the damn internet to parse a pdf
+dsdsdsdsd
 enabled ultra instinct
 epic
 eppic fail XNAMEX
+erm
 extra debug for stuff module
 f
 fail
@@ -540,8 +550,10 @@ fix some fucking errors
 fix tpyo
 fixed conflicts (LOL merge -s ours; push -f)
 fixed errors in the previous commit
+fixed level 1 bug im losing my mind im losing my mind im losing my mind im losi
 fixed mistaken bug
 fixed shit that havent been fixed in last commit
+fixed slightly cancerous level design
 fixed some minor stuff, might need some additional work.
 fix that damn sign!!!
 fixed the israeli-palestinian conflict
@@ -572,10 +584,12 @@ herpderp (redux)
 hey, look over there!
 hey, what's that over there?!
 hmmm
+holy hell are there 12739 bugs
 holy shit it's functional
 hoo boy
 hopefully going to get a successful build got damn it
 i dunno, maybe this works
+i have no idea what i did
 i hid an easter egg in the code. can you find it?
 i need therapy
 i think i fixed a bug...
@@ -584,6 +598,7 @@ implemented missing semicolon
 improved function
 include shit
 increased loading time by a bit
+init godot balls
 it is hump day _^_
 it's friday
 jobs... steve jobs
@@ -614,6 +629,7 @@ more stuff
 move your body every every body
 need another beer
 needs more cow bell
+no progress whatsoever
 omg what have I done?
 omgsosorry
 oops
@@ -650,6 +666,7 @@ s/import/include/
 should get thru ci now
 should work I guess...
 should work now.
+sioimething idk i forogot
 small is a real HTML tag, who knew.
 some brief changes
 some stuff working haha
@@ -665,8 +682,10 @@ stopped caring XNUM8,23X commits ago
 stuff
 syntax
 tagging release w.t.f.
+torture
 that coulda been bad
 that's all folks
+the great purge is over. did it work? we dont know
 the magic is real
 these confounded tests drive me nuts
 these guys are flipped
@@ -689,6 +708,7 @@ uhhhhhh
 unh
 unionfind is no longer being molested.
 various changes
+wasting time
 well crap.
 what the hell happened here
 what is estonia up to now ...
@@ -702,6 +722,7 @@ woa!! this one was really HARD!
 work in progress
 workaround for ant being a pile of fail
 wrapping should work properly. Probably.
+yes
 yet another quality commit
 yo recipes
 yolo push
