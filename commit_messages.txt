@@ -525,6 +525,7 @@ commit
 copy and paste is not a design pattern
 credits added logo thingy yes piss 
 de-misunderestimating
+debug: more debug
 debug line test
 debug suff
 debugo
